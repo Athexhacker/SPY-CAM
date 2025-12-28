@@ -32,12 +32,13 @@ Internet connection
 ## 📦 Installation & Usage
 Clone or download the script
 
-bash
+```bash
 chmod +x spy-cam.sh
+
 Run the tool
 
 bash 
-./spy-cam.sh
+./spy-cam.sh```
 
 # Follow the on-screen instructions
 
@@ -59,7 +60,8 @@ Images are saved in the captures/ directory with timestamps
                OR
 USE CONTROL PANEL FOR BEST AND COOL PERFOMANCE.
 
-🛡️ How It Works
+# 🛡️ How It Works
+
 Social Engineering: Presents a fake web page that appears legitimate
 
 Browser Permissions: Requests webcam access through standard browser APIs
@@ -71,4 +73,4 @@ Caprure 5+ Photos in sigle Second.
 Data Exfiltration: Sends the captured data to the attacker's server
 
 ## 🟢 DEVELOPER
-*** ATHEX BLACK HAT ***
+***ATHEX BLACK HAT***
