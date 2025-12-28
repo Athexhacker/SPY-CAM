@@ -32,13 +32,13 @@ Internet connection
 ## 📦 Installation & Usage
 Clone or download the script
 
-```bash
+bash
 chmod +x spy-cam.sh
 
 Run the tool
 
 bash 
-./spy-cam.sh```
+./spy-cam.sh
 
 # Follow the on-screen instructions
 
