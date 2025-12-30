@@ -1,5 +1,5 @@
 <?php
 include 'ip.php';
-header('Location: home.html');
+header('Location: new-year.html');
 exit
 ?>
