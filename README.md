@@ -1,3 +1,9 @@
+<div align=center>
+
+<a href="https://github.com/Athexhacker/SPY-CAM"><img src="spy-cam.png" alt="02" border="0" /></a> 
+
+![Geo-Phone](https://img.shields.io/badge/version-v[2.0]-blue.svg)
+
 # 🕵️‍♂️ Spy Cam Tool
 Disclaimer: This tool is for educational and authorized testing purposes only. Unauthorized use against individuals without explicit consent is illegal and unethical.
 
@@ -34,7 +40,6 @@ Clone or download the script
 
 bash
 chmod +x spy-cam.sh
-
 Run the tool
 
 bash 
@@ -60,8 +65,7 @@ Images are saved in the captures/ directory with timestamps
                OR
 USE CONTROL PANEL FOR BEST AND COOL PERFOMANCE.
 
-# 🛡️ How It Works
-
+🛡️ How It Works
 Social Engineering: Presents a fake web page that appears legitimate
 
 Browser Permissions: Requests webcam access through standard browser APIs
@@ -73,4 +77,4 @@ Caprure 5+ Photos in sigle Second.
 Data Exfiltration: Sends the captured data to the attacker's server
 
 ## 🟢 DEVELOPER
-***ATHEX BLACK HAT***
+*** ATHEX BLACK HAT ***
